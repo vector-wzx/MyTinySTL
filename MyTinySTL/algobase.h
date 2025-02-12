@@ -2,11 +2,7 @@
 #define MYTINYSTL_ALGOBASE_H_
 
 // 这个头文件包含了 mystl 的基本算法
-<<<<<<< HEAD
-//54565412
-=======
-
->>>>>>> 4416596ff1fb5387b65ef68af23cfe03bb3acc09
+//21313
 #include <cstring>
 
 #include "iterator.h"
